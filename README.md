@@ -2,6 +2,8 @@
 
 Jan 2022 - Apr 2022
 
+
+
 DEPLOYMENT OF MODEL :
 
   -- A machine learning model will provide real value when it is available to the users that it has been created for.
@@ -25,7 +27,10 @@ DEPLOYMENT OF MODEL :
   --If data is incorrect, outcomes and algorithms are unreliable, even though they may look correct.
 
 
+
+
 PREPARING DATA AND CLEANING DATA :
+
 
   -- We can create dataset as per our requirement in excel from scratch or we can get dataset from various websites like kaggle according to our need.
   
