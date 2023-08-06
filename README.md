@@ -2,7 +2,7 @@
 
 Jan 2022 - Apr 2022
 
-![NFL Logo](path/to/your/logo.png) <!-- Replace 'path/to/your/logo.png' with the actual path to your project's logo/image -->
+![NFL Logo](PROJECT/Screenshot/Screenshot (77).png) <!-- Replace 'path/to/your/logo.png' with the actual path to your project's logo/image -->
 
 ## Introduction
 
