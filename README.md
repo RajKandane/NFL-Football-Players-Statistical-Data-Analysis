@@ -2,7 +2,7 @@
 
 Jan 2022 - Apr 2022
 
-![NFL Football Players Statistical Data Analysis](./Screenshot/Screenshot%20(77).png)
+![NFL Football Players Statistical Data Analysis](./Screenshot/Screenshot (76).png)
 
 ## Introduction
 
